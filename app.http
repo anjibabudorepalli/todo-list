@@ -1,0 +1,5 @@
+GET http://localhost/todos/?status=TO%20DO
+###
+GET http:??localhost/todos/1
+###
+PUT http://localhost/todo/1?status=aa
